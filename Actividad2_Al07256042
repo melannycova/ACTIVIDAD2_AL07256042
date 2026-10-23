@@ -1,0 +1,54 @@
+print("Actividad 2 Ejercicios del dia martes de Cami y Hani")
+
+#como dar de alta variables tipo texto en python se llaman str
+Mi_Artista_Favorito = "Justin Bieber"
+miartista__favorito = "Belanova"
+artista = "Junior H"
+
+#como dar de alta variables tipo numero entero, en python se llama int
+mi_edad =30
+MiEdad =26
+edad = 21
+
+#como dar de alta variables decimales, en python float
+horas_llegar_uni =1.5
+edad =17.5
+ahorros =650000.45
+
+#como saber que tipo de variables es 
+print(type(miartista__favorito))
+print(type(edad))
+print(type(ahorros))
+
+print("**************************")
+print("Mi perfil gamer")
+
+#dar de alta las variables de mi gamer tag 
+gamertag ="YoshoBunny"    #str (texto
+edad = 18                  #int o float
+juego_favorito = "Zelda"   #str (texto)
+nivel =120                #int o float
+horas_jugadas =2000       #int o float
+tiene_soporte_tecnico = False   #varible booleana
+
+#imprimir tipo de variable 
+print("*** Aqui imprimo el tipo de variables de mi gamertag ***")
+print(type(gamertag))
+print(type(edad))
+print(type(juego_favorito))
+print(type(nivel))
+print(type(horas_jugadas))
+print(type(tiene_soporte_tecnico))
+
+
+
+
+
+
+
+
+
+
+
+
+
